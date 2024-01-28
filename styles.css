@@ -26,7 +26,7 @@ h1 {
      height: 500px;
      margin-left: 125px;
      margin-bottom: 150px;
-     background-image: url('../resources/interior-design.png');
+     background-image: url('interior-design.png');
      background-repeat: no-repeat;
      margin-top: 30px;
 }
@@ -319,7 +319,7 @@ h1 {
      position: relative;
      width: 1400px;
      height: 717px;
-     background-image: url('/resources/gk_forest_landscape.jpg');
+     background-image: url('gk_forest_landscape.jpg');
      background-repeat: no-repeat;
      background-size: cover;
      background-position: 50% 50%;
@@ -365,7 +365,7 @@ h1 {
      margin-left: -4px;
      width: 24px;
      height: 24px;
-     background-image: url('/resources/contacts_phone.jpg');
+     background-image: url('contacts_phone.jpg');
      background-size: cover;
      background-repeat: no-repeat;
      background-position: 50%;
